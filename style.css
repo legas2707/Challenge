@@ -1,0 +1,42 @@
+*{
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font:32px;
+    font-weight: 400;
+}
+.logoalura {
+    margin: 10px;
+    padding-top: 10px;
+    width: 2%;
+
+}
+.displayflex {
+    margin-bottom: 50px;
+    margin-left: 80px;
+
+}
+.textarea {
+    border: none;
+    color:purple;
+    margin-top: 90px;
+    text-transform:lowercase;
+    
+}
+
+.textarea {
+    color: black;
+    outline: none ;
+}
+
+.mensagem {
+    background-color: white;
+    background-image: ;
+    margin-left: 50px;
+    position: fixed;
+    outline: none;
+}
+.botoes {
+    display: flex;
+    margin-top: 18px;
+
+}
